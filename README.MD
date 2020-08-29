@@ -7,3 +7,5 @@ Nome: Gabriel Alba Gonzatti
 Nome: Fernando Faustino  
 RA: 1902552  
 
+Nome: Lucas Mendes  
+RA: 1902676
